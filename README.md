@@ -17,7 +17,7 @@
 
 ---
 
-<h2> 🎓 Qualifications </h2>
+**🎓 Qualifications**
 
 - 🖥 MSc in Computer Science
  
@@ -25,7 +25,7 @@
 
 ---
 
-<h2> 🧰 My Tool Box </h2>
+**🧰 My Tool Box**
 
 
 
