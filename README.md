@@ -27,10 +27,20 @@
 
 <h2> 🧰 My Tool Box </h2>
 
-<table style="width: 100%;">
+
+
+<table style="width: 100%; border-collapse: collapse;">
+  <!-- Programming Languages -->
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 50%; text-align: left;">
       <h3>Programming Languages</h3>
+    </td>
+    <td style="width: 50%; text-align: left;">
+      <h3>Frontend Development</h3>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
@@ -46,7 +56,28 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       </a>
+    </td>
+    <td style="vertical-align: top; text-align: left;">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- AI/ML -->
+  <tr>
+    <td style="text-align: left;">
       <h3>AI/ML</h3>
+    </td>
+    <td style="text-align: left;">
+      <h3>Database</h3>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
       </a>
@@ -56,34 +87,36 @@
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
       </a>
-      <h3>DevOps</h3>
-      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-      </a>
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-      </a>
-<h3>Game Engines</h3>
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-      </a>
     </td>
-    <td style="width: 50%; vertical-align: top;">
-      <h3>Frontend Development</h3>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <h3>Database</h3>
+    <td style="vertical-align: top; text-align: left;">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a>
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
       </a>
+    </td>
+  </tr>
+
+  <!-- DevOps -->
+  <tr>
+    <td style="text-align: left;">
+      <h3>DevOps</h3>
+    </td>
+    <td style="text-align: left;">
       <h3>Software</h3>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+      </a>
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+      </a>
+    </td>
+    <td style="vertical-align: top; text-align: left;">
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
       </a>
@@ -93,7 +126,25 @@
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
       </a>
+    </td>
+  </tr>
+
+  <!-- Game Engines -->
+  <tr>
+    <td style="text-align: left;">
+      <h3>Game Engines</h3>
+    </td>
+    <td style="text-align: left;">
       <h3>Others</h3>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <a href="https://unity.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+      </a>
+    </td>
+    <td style="vertical-align: top; text-align: left;">
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
       </a>
@@ -106,19 +157,20 @@
     </td>
   </tr>
 </table>
+<br>
+
+---
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shirleylin39&rank_icon=github" alt="Yi-An's GitHub stats" height="210px" style="margin-right: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleylin39&layout=donut" alt="Top Langs" height="210px" style="margin-left: auto;">
+</div>
+
 
 ---
 <br>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirley39&show_icons=true&locale=en" alt="shirley39" />
-</div>
-
-<div style="text-align: center; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirley39&show_icons=true&locale=en&layout=compact" alt="shirley39" />
-</div>
-
----
 
 <h3 align="center"></h3>
 <p align="center">
