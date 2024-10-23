@@ -142,7 +142,7 @@
 <h3 align="center"></h3>
 <p align="center">
 <a href="https://linkedin.com/in/yi-an-lin-692a73128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yi-an-lin-692a73128" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shirleylin2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirleylin2908" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@shirleylin2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shirleylin2908" height="30" width="40" /></a>
 <br><br>
-<a href="https://www.buymeacoffee.com/buymeacoffee.com/shirleylin39"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shirleylin39" />
+<a href="https://www.buymeacoffee.com/shirleylin39"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/shirleylin39" />
 </p>
