@@ -29,8 +29,8 @@
 **🧰 My Tool Box**
 
 
-
-<table style="width: 800px; border-collapse: collapse;">
+<div align="center">
+<table style="width: 800px; border-collapse: collapse; align="center">
  
   <tr>
     <td style="width: 50%; text-align: left;">
@@ -129,6 +129,7 @@
     </td>
   </tr>
 </table>
+</div>
 <br>
 
 ---
