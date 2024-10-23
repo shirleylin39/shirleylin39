@@ -133,10 +133,12 @@
 <br>
 
 ---
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; box-sizing: border-box;", align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=shirleylin39&rank_icon=github" alt="Yi-An's GitHub stats" height="210px" style="margin-right: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleylin39&layout=donut" alt="Top Langs" height="210px" style="margin-left: auto;">
 </div>
+
 ---
 
 <h3 align="center"></h3>
