@@ -30,7 +30,7 @@
 
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 800px; border-collapse: collapse;">
  
   <tr>
     <td style="width: 50%; text-align: left;">
