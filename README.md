@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C++**, **Rust**, **Ruby**.
 
-- ⚡ Fun Fact: I speak four languages and play four music instruments.
+- ⚡ Fun Fact: I speak four languages and play four musical instruments.
 
 ---
 
