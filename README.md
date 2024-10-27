@@ -11,7 +11,7 @@
 
 - 💬 Looking to collaborate in: **Python**, **Java** or **C**.
 
-- 🌱 I’m currently learning **C++**, **Rust**, **Ruby**.
+- 🌱 I’m currently learning **C++**, **Dart**, **Flutter**.
 
 - ⚡ Fun Fact: I speak four languages and play four musical instruments.
 
